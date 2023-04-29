@@ -24,19 +24,16 @@ DirSync Pro is programmed completely in platform independent Java™ so it can b
 
 ![](assets/dirsync2.png)
 
-![](assets\dirsync3.png)
+![](assets/dirsync3.png)
 
 **Please note: Java JRE 1.7 or above is needed to run DirSync Pro.**
 
-Here is the download page link
+Here is the download page link for ```JRE```
+
+[Download](https://www.java.com/en/download/manual.jsp)
+
+
+Here is the download page link for ```DIRSYNC PRO```
 
 [DOWNLOAD](https://www.dirsyncpro.org/download.html)
 
-
-
-
-![](assets/20230429_222314_dirsync3.png)
-
-![](assets/20230429_222310_dirsync2.png)
-
-![](assets/20230429_222305_dirsync1.png)
